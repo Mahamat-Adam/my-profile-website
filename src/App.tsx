@@ -3,7 +3,6 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import About from './components/About';
 import Hobbies from './components/Hobbies';
-import UniversityEvents from './components/UniversityEvents';
 import Footer from './components/Footer';
 
 const App: React.FC = () => {
@@ -12,9 +11,8 @@ const App: React.FC = () => {
       <Header />
       <Hero />
       <About />
-      <Hobbies />
-      <UniversityEvents />
-      <Footer />
+  <Hobbies />
+  <Footer />
     </div>
   );
 };

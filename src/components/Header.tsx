@@ -11,7 +11,6 @@ const Header: React.FC = () => {
           <div className="hidden md:flex space-x-8">
             <a href="#about" className="text-gray-600 hover:text-primary transition duration-300">About</a>
             <a href="#hobbies" className="text-gray-600 hover:text-primary transition duration-300">Hobbies</a>
-            <a href="#events" className="text-gray-600 hover:text-primary transition duration-300">University Events</a>
             <a href="#contact" className="text-gray-600 hover:text-primary transition duration-300">Contact</a>
           </div>
           <button className="md:hidden text-gray-600">

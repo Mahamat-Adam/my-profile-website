@@ -5,27 +5,27 @@ const Hobbies: React.FC = () => {
   const hobbies: Hobby[] = [
     {
       id: 1,
-      title: "Photography",
-      description: "Capturing moments and landscapes, exploring different photography techniques and editing styles.",
-      image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80"
+      title: "Programming",
+      description: "My true passion lies in coding and problem-solving. I am constantly driven by the challenge of translating complex logic into efficient, functional programs. As a student of Software Engineering, I am eager to grow specifically as a Web Developer",
+      image: "images/Programming.jpg"
     },
     {
       id: 2,
-      title: "Hiking",
-      description: "Exploring nature trails and mountains, enjoying the outdoors and physical challenges.",
-      image: "https://images.unsplash.com/photo-1551632811-561732d1e306?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80"
+      title: "Football",
+      description: "Enjoying the beautiful game, with my friends physically playing, or simply watching a game on the television.",
+      image: "images/Football.jpg"
     },
     {
       id: 3,
-      title: "Reading Tech Blogs",
-      description: "Staying updated with the latest web development trends and technologies.",
-      image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80"
+      title: "Going for a walk",
+      description: "Going for a walk really clears my mind and helps me increase focus and energy for any task or activity i participate in.",
+      image: "images/walk.jpg"
     },
     {
       id: 4,
-      title: "Playing Guitar",
-      description: "Learning and playing various music genres, from classical to contemporary.",
-      image: "https://images.unsplash.com/photo-1511379938547-c1f69419868d?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80"
+      title: "Traveling",
+      description: "I have a passion for exploring new places and adventures. A memorable trip I took one time with my brother to Bali, Indonesia, in April 2024. We were completely immersed in the beauty of the island, enjoying the lush greenery, stunning beaches, and the overall vibrant culture.",
+      image: "images/bali.jpg"
     }
   ];
 
